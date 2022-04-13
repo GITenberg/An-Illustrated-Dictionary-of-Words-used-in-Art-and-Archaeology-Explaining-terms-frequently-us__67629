@@ -1,0 +1,36 @@
+_repo: An-Illustrated-Dictionary-of-Words-used-in-Art-and-Archaeology-Explaining-terms-frequently-us__67629
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mollett, John W. (John William)
+    aliases:
+    - Mollett, J. W. (John William)
+    - Mollett, J.W.
+    - Mollett, John William
+    gutenberg_agent_id: '53970'
+    url: http://www.gutenberg.org/2009/agents/53970
+description: ''
+gutenberg_issued: '2022-03-15'
+identifiers:
+  gutenberg: '67629'
+language: en
+pgterms:marc904: https://archive.org/details/illustrateddicti00moll
+pgterms:marc905: 20180314222853mollett
+pgterms:marc906: '1883'
+pgterms:marc907: GB
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: United Kingdom :Sampson Low, Marston, Searle, And Rivington,,1883.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'N'
+- !lcsh 'Archaeology -- Dictionaries'
+- !lcsh 'Art -- Dictionaries'
+- GITenberg
+title: "An Illustrated Dictionary of Words used in Art and Archaeology\r\nExplaining\
+  \ terms frequently used in works on architecture, arms, bronzes, Christian art,\
+  \ colour, costume, decoration, devices, emblems, heraldry, lace, personal ornaments,\
+  \ pottery, painting, sculpture, &c., with their derivations."
+url: http://www.gutenberg.org/ebooks/67629
