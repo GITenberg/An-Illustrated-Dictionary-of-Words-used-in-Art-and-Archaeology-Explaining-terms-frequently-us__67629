@@ -1,5 +1,8 @@
 _repo: An-Illustrated-Dictionary-of-Words-used-in-Art-and-Archaeology-Explaining-terms-frequently-us__67629
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67629-h/images/cover.jpg
 creator:
   author:
     agent_name: Mollett, John W. (John William)
@@ -10,6 +13,8 @@ creator:
     gutenberg_agent_id: '53970'
     url: http://www.gutenberg.org/2009/agents/53970
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67629#An-Illustrated-Dictionary-of-Words-used-in-Art-and-Archaeology-Explaining-terms-frequently-us_
 gutenberg_issued: '2022-03-15'
 identifiers:
   gutenberg: '67629'
